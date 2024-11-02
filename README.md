@@ -1,4 +1,4 @@
-### E-commerce Website - Single Product Showcase
+# E-commerce Website - Single Product Showcase
 This repository contains my single-product e-commerce website, developed as part of my ShadowFox internship. The focus was on creating a simple, responsive, and user-friendly interface using frontend technologies.
 
 #Features
