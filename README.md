@@ -28,17 +28,15 @@ This repository contains my single-product e-commerce website, developed as part
   
 ![Screenshot 2024-11-01 230453](https://github.com/user-attachments/assets/fefe55ac-f8c5-4bb1-8e97-4d142fd8a7a6)
 
-
-  Product Details Section
-
   Responsive View
+  ![Screenshot 2024-11-02 120243](https://github.com/user-attachments/assets/98668a90-cbfc-4d3e-ba8b-82326390e7cd)
 
 These screenshots offer a visual representation of the design and functionality of the site.
 
 ## Contact
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
-  LinkedIn: 
-  Email: your.email@example.com
+  LinkedIn: ARAVETI VAMSI
+  Email: vamsiaraveti4444@gmail.com 
 This project helped me deepen my understanding of e-commerce frontend development and design principles.
 
