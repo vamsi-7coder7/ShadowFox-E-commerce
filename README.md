@@ -25,6 +25,9 @@ This repository contains my single-product e-commerce website, developed as part
  Open index.html in your browser to view the site.
 ## Screenshots
   Home Page / Product Display
+  
+![Screenshot 2024-11-01 230453](https://github.com/user-attachments/assets/fefe55ac-f8c5-4bb1-8e97-4d142fd8a7a6)
+
 
   Product Details Section
 
